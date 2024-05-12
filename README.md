@@ -9,7 +9,16 @@
   - [Vulnerability Management with Nessus](https://github.com/romeomallavo/Vulnerability-Management-with-Nessus.git)
   - [Malware Analysis lab](https://github.com/romeomallavo/Malware-Analysis-lab.git)
   - [Cybersecurity Lab](https://github.com/romeomallavo/Cybersecurity-Lab.git)
-  - [Coding REST API with Node JS and Express](https://github.com/romeomallavo/Rest-API.git)
+
+
+<h3> Coding Projects in Python</h3>
+  - [Password Generator in Python](https://github.com/romeomallavo/Password-Generator.git)
+  - [Password Manager in Python](https://github.com/romeomallavo/Password-Manager.git)
+  - [nMap Port Scanner in Python](https://github.com/romeomallavo/nMap-Port-Scanner.git)
+  - [Encryption Program in Python](https://github.com/romeomallavo/Encryption-Program-in-Python.git)
+  - [WHOIS Domain lookup tool in python](https://github.com/romeomallavo/WHOIS-Domain-lookup-tool-in-python.git)
+
+  
             - 
 <h2>Certifications</h2>
 
