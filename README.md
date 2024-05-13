@@ -1,8 +1,6 @@
 # Hello, I'm Romeo Mallavo
 <a href="https://linkedin.com/in/romeomallavo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 A dedicated IT professional with a Bachelor of Science in Information Technology from the University of Phoenix and extensive certifications including CompTIA's Network+, Security+, and specialist credentials in IT operations and secure infrastructure. I am proficient in managing critical cybersecurity projects and developing tools that enhance security posture. My hands-on experience is strengthened by active engagements in defensive security analysis and a rich portfolio of projects showcased on GitHub, reflecting expertise in SIEM systems, vulnerability management, malware analysis, and more.
 
 ## Objective
