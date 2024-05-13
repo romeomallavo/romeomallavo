@@ -1,6 +1,14 @@
-<h1>Hi, I'm Romeo!</h1>
+# Hello, I'm Romeo Mallavo
+<a href="https://linkedin.com/in/romeomallavo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+[Brief Introduction - Remove this afterwards]
+
+A dedicated IT professional with a Bachelor of Science in Information Technology from the University of Phoenix and extensive certifications including CompTIA's Network+, Security+, and specialist credentials in IT operations and secure infrastructure. I am proficient in managing critical cybersecurity projects and developing tools that enhance security posture. My hands-on experience is strengthened by active engagements in defensive security analysis and a rich portfolio of projects showcased on GitHub, reflecting expertise in SIEM systems, vulnerability management, malware analysis, and more.
+
+## Objective
+To leverage my comprehensive IT and cybersecurity education, extensive suite of certifications, and hands-on project experience, to secure a role in cybersecurity where I can contribute significantly to safeguarding IT infrastructures. I aim to utilize my technical expertise and a commitment to continuous learning to effectively detect, analyze, and mitigate cybersecurity threats, thereby enhancing the organization's overall security posture and supporting its strategic goals.
+
+## Cybersecurity Projects
 
 
   - [SIEM LAB](https://github.com/romeomallavo/siemlab.git)
@@ -10,7 +18,6 @@
   - [Malware Analysis lab](https://github.com/romeomallavo/Malware-Analysis-lab.git)
   - [Cybersecurity Lab](https://github.com/romeomallavo/Cybersecurity-Lab.git)
 
-
 <b>Coding Projects in Python
   - [Password Generator in Python](https://github.com/romeomallavo/Password-Generator.git)
   - [Password Manager in Python](https://github.com/romeomallavo/Password-Manager.git)
@@ -19,35 +26,10 @@
   - [WHOIS Domain lookup tool in python](https://github.com/romeomallavo/WHOIS-Domain-lookup-tool-in-python.git)
 
 
-<h2>Certifications</h2>
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
-- [Comptia A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Comptia Network+](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Comptia Security+](https://www.youtube.com/watch?v=N-L9hklSlNk)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
